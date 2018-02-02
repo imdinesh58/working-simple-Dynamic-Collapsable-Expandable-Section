@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c4827a85e3d986c4a403344a406918f9"
+build_time: [1517575719, 218512000]
+inputs:
+  "/Users/apple-1/Downloads/UITableViewExpandCollapse-master/ExpandableHeaders-Swift/ExpandableHeaders/ViewController.swift": [1517575718, 0]
+  "/Users/apple-1/Downloads/UITableViewExpandCollapse-master/ExpandableHeaders-Swift/ExpandableHeaders/AppDelegate.swift": [1494389764, 0]
+  "/Users/apple-1/Downloads/UITableViewExpandCollapse-master/ExpandableHeaders-Swift/ExpandableHeaders/UIColor+AppColors.swift": [1494389764, 0]
